@@ -1,5 +1,5 @@
 # My-First-Repository
-This is my first Repository where i will add my all testing related task
+This is my first Repository
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -10,12 +10,11 @@ This is my first Repository where i will add my all testing related task
 <p align="left">I am currently learning software testing and getting certificates from ATSQA</p>
 
 
-
-<p align="left">My name is Tarunika Chaudhary and I have worked as assistant professor in CSE department in SRMIST , from 2020 to 2023</p>
+<p align="left">Worked as assistant professor in CSE department in SRMIST , from 2020 to 2023</p>
 
 ###
 
-<h2 align="left">About me:Technology savvy and goal oriented, experienced educational instructor, with over 4.5 years of experience in Teaching. Versatile, reliable, and efficient with diverse background work experience in different educational sector. I am searching for new opportunities in the IT field to continuously improving professionally. </h2>
+<h3 align="left">About me:Technology savvy and goal oriented, experienced educational instructor, with over 4.5 years of experience in Teaching. Versatile, reliable, and efficient with diverse background work experience in different educational sector. I am searching for new opportunities in the IT field to continuously improving professionally. </h3>
 
 ###
 
